@@ -1,0 +1,6 @@
+F X F F F X
+g1 F F F F e	
+F b F F F F
+X F g2 F F X
+F X F F F F
+F F F F F F
